@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PhilsLab_Footprints_KiCad6")(type "KiCad")(uri "${KIPRJMOD}/PhilsLab_Footprints_KiCad6.pretty")(options "")(descr "")(disabled))
+  (lib (name "mis footprints")(type "KiCad")(uri "/Users/felipe/Documents/KiCad/7.0/footprints/mis_footprints.pretty")(options "")(descr ""))
+)
